@@ -218,6 +218,21 @@ body
 	background:#fff;
 	text-decoration:none
 }
+.btn-rounded-black
+{
+	display:inline-block;
+	color:#74808a;
+	padding:15px 25px;
+	border:3px solid #74808a;
+	border-radius:30px;
+	transition:.5s ease all
+}
+.btn-rounded-black:hover
+{
+	color:#ff9b38;
+	background:#74808a;
+	text-decoration:none
+}
 .shadow
 {
 	box-shadow:0 1px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24)
